@@ -1,16 +1,15 @@
 {
-  "ts": "2026-10-17T17:00:02.962Z",
+  "ts": "2026-10-17T17:10:19.121Z",
   "villa": {
     "id": 1,
     "name": "AGI Agenten Villa",
-    "status": "PAUSED"
+    "status": "RUNNING"
   },
   "tasks": {
     "IN_PROGRESS": 1,
-    "PENDING": 1,
     "DONE": 300
   },
-  "running": false,
+  "running": true,
   "patches": {
     "appliedThisCycle": [],
     "failedThisCycle": [],
